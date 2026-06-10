@@ -1,10 +1,12 @@
+<div align="center">
+
 # Hi there, I'm Ho Huu Dai 👋
 
 ### Network/Cloud/System Engineer Intern
 
-<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0066FF?style=for-the-badge)](https://hohuudai.com)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0066FF?style=for-the-badge)](https://dai-huu.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/đại-hồ-hữu-66b709371)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail)](mailto:hohuudai103@gmail.com)
 
