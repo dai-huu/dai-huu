@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0066FF?style=for-the-badge)](https://dai-huu.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/đại-hồ-hữu-66b709371)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail)](mailto:hohuudai103@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=envelope)](mailto:hohuudai103@gmail.com)
 
 </div>
 
@@ -28,17 +28,18 @@
 ### Cloud & Virtualization
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware)
-![GNS3](https://img.shields.io/badge/GNS3-000000?style=flat)
+![VMware](https://img.shields.io/badge/VMware-2F4050?style=flat&logo=vmware&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-0078D4?style=flat&logo=gns3)
 
 ### System & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows)
+![Cisco](https://img.shields.io/badge/Cisco-005073?style=flat&logo=cisco&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat)
 
 ### Monitoring & Security
 ![Zabbix](https://img.shields.io/badge/Zabbix-DB0000?style=flat)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat&logo=grafana)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat)
 
