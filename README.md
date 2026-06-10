@@ -19,10 +19,7 @@
 - 📧 **Email**: hohuudai103@gmail.com
 - 🎓 Final-year IT student (Computer Engineering major) @ Saigon University (GPA: 3.44/4.0)
 - 🎯 Focus areas: **System Administration, Computer Networking, Cloud Infrastructure**
-- 🏆 **AWS Certified Solutions Architect - Associate** (Feb 2026)
-<a href="https://www.credly.com/badges/d7a7d23f-72b9-4bdb-99ef-551677a714c1/public_url" target="_blank">
-    <i> Verify Credential</i>
-</a>
+- 🏆 **AWS Certified Solutions Architect - Associate** (Feb 2026) <a href="https://www.credly.com/badges/d7a7d23f-72b9-4bdb-99ef-551677a714c1/public_url" target="_blank"><i> Verify Credential</i></a>
 
 ---
 
